@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "checked": "2026-10-28T20:12:43.5611729Z",
+  "regions": [
+    {
+      "id": "austria",
+      "name": "Austria",
+      "de": "\u00D6sterreich",
+      "data": "2026-10-27T21:23:59Z"
+    },
+    {
+      "id": "liechtenstein",
+      "name": "Liechtenstein",
+      "data": "2026-10-27T21:23:59Z"
+    }
+  ],
+  "parts": [
+    {
+      "x": 135,
+      "y": 89,
+      "regions": [
+        "austria"
+      ],
+      "release": "2026-10",
+      "file": "135-89.pack",
+      "size": 1942231,
+      "sha256": "a7a155ed8ec8cfa034fb17a72092179dbf1002a2f4ad8dd63b427019fb7c1655",
+      "data": "2026-10-27T21:23:59Z",
+      "built": "2026-10-28T20:12:43.5611729Z",
+      "pieces": 62464,
+      "name": "Telfs, Imst"
+    },
+    {
+      "x": 136,
+      "y": 89,
+      "regions": [
+        "austria"
+      ],
+      "release": "2026-10",
+      "file": "136-89.pack",
+      "size": 2023734,
+      "sha256": "d538f0a5df5b8d8cded6ac85d3faa5d9f8bfb40cba47a56613cc98bbb6c3dbee",
+      "data": "2026-10-27T21:23:59Z",
+      "built": "2026-10-28T20:12:43.5611729Z",
+      "pieces": 48640,
+      "name": "Innsbruck, Kufstein"
+    },
+    {
+      "x": 136,
+      "y": 90,
+      "regions": [
+        "austria"
+      ],
+      "release": "2026-10",
+      "file": "136-90.pack",
+      "size": 449767,
+      "sha256": "34bf8ca0ad2892a1adbb1f1551797ea60ec1fde6cde74a033f16c472c126ac41",
+      "data": "2026-10-27T21:23:59Z",
+      "built": "2026-10-28T20:12:43.5611729Z",
+      "pieces": 8,
+      "name": "Matrei in Osttirol, Sillian"
+    },
+    {
+      "x": 137,
+      "y": 88,
+      "regions": [
+        "austria"
+      ],
+      "release": "2026-10",
+      "file": "137-88.pack",
+      "size": 127123,
+      "sha256": "134327107efa5cae58e895e3f6798471eef02eeeccb8df4c703f89101f7f8041",
+      "data": "2026-10-27T21:23:59Z",
+      "built": "2026-10-28T20:12:43.5611729Z",
+      "pieces": 59392,
+      "name": "Wels, Burghausen"
+    },
+    {
+      "x": 137,
+      "y": 89,
+      "regions": [
+        "austria"
+      ],
+      "release": "2026-10",
+      "file": "137-89.pack",
+      "size": 3045248,
+      "sha256": "fce68b85112d4dd8f455f050a3364d07b92ab9badc16d437a0ffc9456cf8ada2",
+      "data": "2026-10-27T21:23:59Z",
+      "built": "2026-10-28T20:12:43.5611729Z",
+      "pieces": 65230,
+      "name": "Salzburg, Hallein"
+    },
+    {
+      "x": 137,
+      "y": 90,
+      "regions": [
+        "austria"
+      ],
+      "release": "2026-10",
+      "file": "137-90.pack",
+      "size": 748988,
+      "sha256": "ed85a70b12b1c1cea5f5f5bd06921cb2ed7cf4261518068c240b2d0846c7a01a",
+      "data": "2026-10-27T21:23:59Z",
+      "built": "2026-10-28T20:12:43.5611729Z",
+      "pieces": 207,
+      "name": "Villach, Spittal an der Drau"
+    },
+    {
+      "x": 138,
+      "y": 88,
+      "regions": [
+        "austria"
+      ],
+      "release": "2026-10",
+      "file": "138-88.pack",
+      "size": 795881,
+      "sha256": "3c509e6c6e05e759d0b6002150dab74b20f73ac0e59c38fab5b30b86fe02f5fd",
+      "data": "2026-10-27T21:23:59Z",
+      "built": "2026-10-28T20:12:43.5611729Z",
+      "pieces": 65480,
+      "name": "Linz, Steyr"
+    },
+    {
+      "x": 138,
+      "y": 89,
+      "regions": [
+        "austria"
+      ],
+      "release": "2026-10",
+      "file": "138-89.pack",
+      "size": 2924704,
+      "sha256": "e5f1f1defe4c0a3e6506d46ec60ab8934e09dc2ba74100f2c355b59cb7ef5191",
+      "data": "2026-10-27T21:23:59Z",
+      "built": "2026-10-28T20:12:43.5611729Z",
+      "pieces": 65535,
+      "name": "Graz, Leoben"
+    },
+    {
+      "x": 138,
+      "y": 90,
+      "regions": [
+        "austria"
+      ],
+      "release": "2026-10",
+      "file": "138-90.pack",
+      "size": 407599,
+      "sha256": "63cbe390a12188b7902958304b833b206e61e285be54f29cb8a116692c0b93cf",
+      "data": "2026-10-27T21:23:59Z",
+      "built": "2026-10-28T20:12:43.5611729Z",
+      "pieces": 63,
+      "name": "Klagenfurt, Wolfsberg"
+    },
+    {
+      "x": 139,
+      "y": 88,
+      "regions": [
+        "austria"
+      ],
+      "release": "2026-10",
+      "file": "139-88.pack",
+      "size": 1310641,
+      "sha256": "f85451807662bd1cdeaa90dee1ce44a26f36c5a257e6c08f0465146ee550d851",
+      "data": "2026-10-27T21:23:59Z",
+      "built": "2026-10-28T20:12:43.5611729Z",
+      "pieces": 65520,
+      "name": "Wien, St. P\u00F6lten"
+    },
+    {
+      "x": 139,
+      "y": 89,
+      "regions": [
+        "austria"
+      ],
+      "release": "2026-10",
+      "file": "139-89.pack",
+      "size": 1376032,
+      "sha256": "5beab4a7add420895a09cf36a884c5c87ab5868f0efb103afaab86451504dd02",
+      "data": "2026-10-27T21:23:59Z",
+      "built": "2026-10-28T20:12:43.5611729Z",
+      "pieces": 13119,
+      "name": "Wiener Neustadt, Ternitz"
+    },
+    {
+      "x": 139,
+      "y": 90,
+      "regions": [
+        "austria"
+      ],
+      "release": "2026-10",
+      "file": "139-90.pack",
+      "size": 37446,
+      "sha256": "321a78258f1344745ccee25aceec09fabaf27b7df067ccb582683df44617e758",
+      "data": "2026-10-27T21:23:59Z",
+      "built": "2026-10-28T20:12:43.5611729Z",
+      "pieces": 1,
+      "name": "Feldbach, Fehring"
+    }
+  ]
+}
