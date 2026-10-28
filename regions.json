@@ -2,10 +2,6 @@
   "format": 1,
   "regions": [
     {
-      "id": "switzerland",
-      "de": "Schweiz"
-    },
-    {
       "id": "liechtenstein"
     },
     {
