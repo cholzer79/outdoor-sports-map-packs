@@ -1,0 +1,24 @@
+{
+  "format": 1,
+  "regions": [
+    {
+      "id": "switzerland",
+      "de": "Schweiz"
+    },
+    {
+      "id": "liechtenstein"
+    },
+    {
+      "id": "austria",
+      "de": "Österreich"
+    },
+    {
+      "id": "bayern",
+      "de": "Bayern"
+    },
+    {
+      "id": "nord-est",
+      "de": "Italien Nordost"
+    }
+  ]
+}
