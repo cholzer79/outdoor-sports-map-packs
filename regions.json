@@ -10,7 +10,7 @@
     },
     {
       "id": "austria",
-      "de": "Österreich"
+      "de": "\u00D6sterreich"
     },
     {
       "id": "bayern",
@@ -19,6 +19,9 @@
     {
       "id": "nord-est",
       "de": "Italien Nordost"
+    },
+    {
+      "id": "italy"
     }
   ]
 }
